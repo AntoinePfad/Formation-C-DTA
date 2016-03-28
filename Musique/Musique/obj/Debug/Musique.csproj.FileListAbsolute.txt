@@ -1,0 +1,9 @@
+c:\users\antoi\onedrive\documents\visual studio 2015\Projects\Musique\Musique\bin\Debug\Musique.exe.config
+c:\users\antoi\onedrive\documents\visual studio 2015\Projects\Musique\Musique\bin\Debug\Musique.exe
+c:\users\antoi\onedrive\documents\visual studio 2015\Projects\Musique\Musique\bin\Debug\Musique.pdb
+c:\users\antoi\onedrive\documents\visual studio 2015\Projects\Musique\Musique\obj\Debug\Musique.csprojResolveAssemblyReference.cache
+c:\users\antoi\onedrive\documents\visual studio 2015\Projects\Musique\Musique\obj\Debug\Musique.exe
+c:\users\antoi\onedrive\documents\visual studio 2015\Projects\Musique\Musique\obj\Debug\Musique.pdb
+D:\RepoGit Formation\Formation-C-DTA\Musique\Musique\bin\Debug\Musique.exe.config
+D:\RepoGit Formation\Formation-C-DTA\Musique\Musique\obj\Debug\Musique.exe
+D:\RepoGit Formation\Formation-C-DTA\Musique\Musique\obj\Debug\Musique.pdb
